@@ -8,7 +8,7 @@ a hex string, it will display the hex string as an image, otherwise, the hash is
 The application visually represents hexadecimal code as used within hashes in the form of stacked square blocks. Each single vertical line represents a number from 0 to 255, 
 i.e. 00 to ff. A completely white vertical line of blocks would represent ```00```, while a completely black line of blocks would represent ```ff```.
 
-The hash value for the input **```persephone-and-hades```** is ```449637206349395ffdc51e98bbc8c05a``` and the associated image is : 
+The hash value for the input **```persephone-and-hades```** is ```449637206349395ffdc51e98bbc8c05a``` and the associated image is 
 
 ![Image for the input persephone-and-hades](https://persephone-vmh.herokuapp.com/api/persephone-and-hades)
 
